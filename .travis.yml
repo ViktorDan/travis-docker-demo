@@ -13,3 +13,4 @@ script:
 after_script:
   - echo "Image built and run sucessfully"
 
+# init
